@@ -1,0 +1,6 @@
+title: Second Setting
+description: You are still in a test setting. It's rather flat and plain.
+actions:
+  - title: Keep walking
+    slug: keep-walking
+    class: \App\Adventures\Test\SettingTwo\KeepWalkingAction

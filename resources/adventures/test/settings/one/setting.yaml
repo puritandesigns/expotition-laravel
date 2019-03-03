@@ -1,0 +1,16 @@
+title: Setting One
+description: >
+  You are standing in a test setting wondering what to do.
+
+
+  You can find the file that holds my data in
+
+  <code>app/resources/adventures/test/settings/one/setting.yaml</code>.
+
+actions:
+  - title: Say, "Hello"
+    slug: say-hello
+    class: \App\Adventures\Test\SettingOne\SayHelloAction
+  - title: Start walking
+    slug: start-walking
+    class: \App\Adventures\Test\SettingOne\StartWalkingAction
